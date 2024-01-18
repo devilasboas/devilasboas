@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou a Camila! 👋
 
-<!--
-**devilasboas/devilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora Front-End e UX/UI Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Habilidades
+
+**Front-end:** Javascript, HTML, CSS & Figma
+
+**UX/UI Designer:** Figma & Adobe Xd
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-goncalves-/)
+
+![Snake animation](https://github.com/devilasboas/devilasboas/blob/output/github-contribution-grid-snake.svg)
