@@ -1,70 +1,69 @@
-# 👋 Olá, eu sou Camila de Vilas Bôas!
+# 👋 Hi, I'm Camila de Vilas Bôas!
 
-> *“As portas do inferno estão abertas noite e dia;  
-> Suave a descida, e fácil é o caminho:  
-> Mas para voltar e ver os céus alegres,  
-> Nisto reside a tarefa e o trabalho poderoso.”*  
-> — Virgílio, *Eneida*  
+> *“The gates of hell are open night and day;  
+> The descent is easy, and the path is smooth:  
+> But to return and see the joyful skies,  
+> Therein lies the task and the powerful work.”*  
+> — Virgil, *Aeneid*  
 
-💡 O erro é inevitável. A estagnação, uma escolha. Crescer é enfrentar a descida e encontrar o caminho de volta, uma linha de código por vez.
-
----
-
-## 🚀 Sobre mim  
-🎓 **Estudante de Engenharia de Software**, com um forte interesse em transformar ideias em soluções inovadoras.  
-💻 **Desenvolvedora apaixonada por tecnologia**, focada em alcançar a **especialização em Java**, além de expandir meu conhecimento em **Arquitetura de Software**, **Desenvolvimento Back-End** e **Front-End**.  
-📚 **Em constante evolução**, explorando e integrando conceitos de **UX/UI**, **Design de Aplicativos** e **Desenvolvimento Front-End** para criar experiências digitais completas e intuitivas.
-🎮 Apaixonada por games – exploração e desafios me motivam, dentro e fora da tela.  
+💡 Mistakes are inevitable. Stagnation is a choice. Growth is facing the descent and finding the way back, one line of code at a time.
 
 ---
 
-## 🎓 Formação & Certificações  
+## 🚀 About me  
+🎓 **Software Engineering Student**, with a strong interest in turning ideas into innovative solutions.  
+💻 **Tech enthusiast developer**, focused on achieving **Java specialization**, as well as expanding my knowledge in **Software Architecture**, **Back-End Development**, and **Front-End Development**.  
+📚 **Constantly evolving**, exploring and integrating concepts of **UX/UI**, **App Design**, and **Front-End Development** to create complete and intuitive digital experiences.  
+🎮 Passionate about games – exploration and challenges motivate me, both on and off the screen.  
 
-📖 **Engenharia de Software** 
+---
 
-📜 **Certificado Profissional de Análise de Dados** – *Google*  
-➡ Competências: Planilhas, SQL, Tableau, R, análise e visualização de dados.  
+## 🎓 Education & Certifications  
 
-📜 **Certificado Profissional de Gerenciamento de Projetos (v2)** – *Google*  
-➡ Competências: Metodologias ágeis e tradicionais, planejamento e execução de projetos.  
+📖 **Software Engineering**  
 
-📜 **Certificado Profissional de Design UX** – *Google*  
-➡ Competências: Processo de design UX, wireframes, prototipagem e testes de usabilidade.  
+📜 **Professional Data Analysis Certificate** – *Google*  
+➡ Skills: Spreadsheets, SQL, Tableau, R, data analysis and visualization.  
 
-📜 **Programming Foundations with JavaScript, HTML and CSS** – *Duke University*  
+📜 **Professional Project Management (v2) Certificate** – *Google*  
+➡ Skills: Agile and traditional methodologies, project planning, and execution.  
+
+📜 **Professional UX Design Certificate** – *Google*  
+➡ Skills: UX design process, wireframes, prototyping, and usability testing.  
+
+📜 **Programming Foundations with JavaScript, HTML, and CSS** – *Duke University*  
 
 📜 **UX Design Fundamentals** – *California Institute of the Arts*  
 
 📜 **Visual Elements of User Interface Design** – *California Institute of the Arts*  
 
-📜 **Curso de Desenvolvimento Web** – *Coderhouse*  
+📜 **Web Development Course** – *Coderhouse*  
 
-📜 **Carreira de Designer UX/UI** – *Coderhouse*  
-
----
-
-## 🔧 Tecnologias e Ferramentas  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+📜 **UX/UI Designer Career** – *Coderhouse*  
 
 ---
 
-## 📊 Estatísticas  
+## 🔧 Technologies & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 Stats  
 ![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilasboas&show_icons=true&theme=radical)  
 ![Camila's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devilasboas&layout=compact&theme=radical)
 
 ---
 
-## 📫 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devilasboas/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladevilasboas@gmail.com)
+## 📫 Where to find me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devilasboas/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladevilasboas@gmail.com)  
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/devilasboas)
-
 
 ---
 
-⚡ *“A cada erro corrigido, um novo nível é desbloqueado.”* 🚀
+⚡ *“Each error fixed, a new level is unlocked.”* 🚀
