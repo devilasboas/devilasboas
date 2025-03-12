@@ -53,12 +53,6 @@
 
 ---
 
-## 📊 Stats  
-![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilasboas&show_icons=true&theme=radical)  
-![Camila's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devilasboas&layout=compact&theme=radical)
-
----
-
 ## 📫 Where to find me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devilasboas/)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladevilasboas@gmail.com)  
