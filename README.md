@@ -12,7 +12,6 @@
 
 ## 🚀 About me  
 🎓 **Software Engineering Student**, with a strong interest in turning ideas into innovative solutions.  
-💻 **Tech enthusiast developer**, focused on achieving **Java specialization**, as well as expanding my knowledge in **Software Architecture**, **Back-End Development**, and **Front-End Development**.  
 📚 **Constantly evolving**, exploring and integrating concepts of **UX/UI**, **App Design**, and **Front-End Development** to create complete and intuitive digital experiences.  
 🎮 Passionate about games – exploration and challenges motivate me, both on and off the screen.  
 
