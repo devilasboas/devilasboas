@@ -1,15 +1,50 @@
 # 👋 Hi, I'm Camila!
 
-## 🚀 About me  
-🎓 **Software Engineering Student**,pivoting my focus to the core of technology: building robust, secure, and efficient systems. 
-📚 **Expanding my expertise** beyond the interface, diving deep into **Back-End Architecture**, **Java**, and **Cybersecurity** to engineer solutions that are not just functional, but unshakeable.
-🎮 Passionate about games – I'm driven by the logic behind the mechanics, the thrill of solving complex puzzles, and building systems that work flawlessly under the hood.
+## 🚀 About me
+
+🎓 Software Engineering student passionate about technology and continuous learning.
+
+🐍 Currently specializing in **Python**, building practical projects focused on **automation**, problem-solving, and scripting.
+
+🖥️ My career goal is to grow from **IT Support** to **Networking** and eventually **Cybersecurity**, combining infrastructure knowledge with Python to automate tasks and improve security.
+
+📚 Currently studying:
+- Python
+- IT Support
+- Networking Fundamentals
+- Cybersecurity
+- Linux
+- Software Engineering
+
+🎮 Gamer at heart — I enjoy understanding how systems work, solving technical challenges, and continuously improving my skills.
 
 ---
 
-## 📫 Where to find me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devilasboas/)  
+## 💻 Tech Stack
+
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML & CSS
+- 🗄️ MySQL
+- 🐧 Linux
+- 🔧 Git & GitHub
 
 ---
 
-⚡ *“Each error fixed, a new level is unlocked.”* 🚀
+## 🎯 Current Goals
+
+- Build real-world Python projects
+- Learn automation for IT and Networking
+- Develop Cybersecurity skills
+- Contribute to open-source projects
+- Earn industry certifications
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devilasboas/)
+
+---
+
+> *"Learning never stops. Every project is one more step toward becoming the professional I want to be."* 🚀
