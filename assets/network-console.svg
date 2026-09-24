@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-labelledby="title desc">
+<title id="title">Camila | Networks, infrastructure and cybersecurity</title>
+<desc id="desc">Animated cyber dashboard with connected network nodes and a system information panel.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1027"/><stop offset="1" stop-color="#131b38"/></linearGradient>
+  <linearGradient id="edge" x2="1"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .wire{fill:none;stroke:#445584;stroke-width:1.4;stroke-dasharray:5 7;opacity:.8}
+    .packet{fill:none;stroke:#34d5d1;stroke-width:2;stroke-dasharray:12 210;animation:flow 5s linear infinite}
+    .node{fill:#101c3a;stroke:#5eead4;stroke-width:2;filter:url(#glow);animation:pulse 3s ease-in-out infinite}
+    .node:nth-of-type(2n){animation-delay:1s}
+    .label{fill:#a9bad9;font:14px ui-monospace,SFMono-Regular,Consolas,monospace}
+    .small{fill:#8093b6;font:12px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:2px}
+    .heading{fill:#f0f5ff;font:700 36px Arial,sans-serif}
+    .sub{fill:#79ece1;font:16px ui-monospace,SFMono-Regular,Consolas,monospace}
+    @keyframes flow{to{stroke-dashoffset:-222}}
+    @keyframes pulse{50%{stroke:#b28aff;opacity:.68}}
+    @media(prefers-reduced-motion:reduce){.packet,.node{animation:none}}
+  </style>
+</defs>
+<rect x="2" y="2" width="996" height="406" rx="18" fill="url(#bg)" stroke="url(#edge)" stroke-width="3"/>
+<path d="M3 53H997" stroke="#344665"/>
+<circle cx="28" cy="28" r="6" fill="#ff686b"/><circle cx="49" cy="28" r="6" fill="#fbbf24"/><circle cx="70" cy="28" r="6" fill="#43d88b"/>
+<text x="106" y="33" class="small">CAMILA.DEV / NETWORK CONSOLE</text><text x="860" y="33" class="small">● ONLINE</text>
+<rect x="27" y="78" width="475" height="302" rx="12" fill="#0e1730" stroke="#314b72"/>
+<text x="49" y="106" class="small">01 / NETWORK MAP</text>
+<g>
+  <path id="a" class="wire" d="M264 228L116 159"/><path class="packet" d="M264 228L116 159"/>
+  <path class="wire" d="M264 228L390 143"/><path class="packet" d="M264 228L390 143" style="animation-delay:-1s"/>
+  <path class="wire" d="M264 228L115 306"/><path class="packet" d="M264 228L115 306" style="animation-delay:-2s"/>
+  <path class="wire" d="M264 228L396 307"/><path class="packet" d="M264 228L396 307" style="animation-delay:-3s"/>
+  <circle class="node" cx="264" cy="228" r="35"/><circle class="node" cx="116" cy="159" r="12"/><circle class="node" cx="390" cy="143" r="12"/><circle class="node" cx="115" cy="306" r="12"/><circle class="node" cx="396" cy="307" r="12"/>
+  <text x="232" y="234" fill="#f2f6ff" font-family="monospace" font-size="17">CAMILA</text>
+  <text x="69" y="138" class="label">LINUX</text><text x="348" y="119" class="label">NETWORKS</text>
+  <text x="79" y="340" class="label">PYTHON</text><text x="357" y="339" class="label">SECURITY</text>
+</g>
+<text x="531" y="104" class="small">02 / SYSTEM.INFO</text>
+<text x="529" y="155" class="heading">Camila de Vilas Bôas</text>
+<text x="531" y="184" class="sub">Networks • Infrastructure • Cybersecurity</text>
+<path d="M530 205H969" stroke="#344665"/>
+<text x="531" y="238" class="label">ROLE      Software Engineering student</text>
+<text x="531" y="269" class="label">FOCUS     Network security + automation</text>
+<text x="531" y="300" class="label">TOOLS     Python / Linux / tcpdump</text>
+<text x="531" y="331" class="label">LOCATION  Curitiba, Brazil</text>
+<text x="531" y="365" class="sub">[ investigate ]  [ automate ]  [ secure ]</text>
+</svg>
